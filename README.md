@@ -1,10 +1,11 @@
 # Real-Time-Chat-Application
 
 ## FRONTEND:-
-HOW TO RUN  WEBSITE:- Write on terminal 
-          (1) cd client
-          (2) npm install
-          (3) npm run dev
+HOW TO RUN  WEBSITE:- Write on terminal
+
+(1) cd client
+(2) npm install
+(3) npm run dev
 
 
 ## BACKEND:- Write on terminal 
