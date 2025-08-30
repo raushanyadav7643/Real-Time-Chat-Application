@@ -71,3 +71,7 @@ Here, we have used web sockets to provide a real-time chat experience. Because o
 <img width="1912" height="1065" alt="Chat Application" src="https://github.com/user-attachments/assets/aac48c7b-cb94-4a31-95bf-363d7675ce82" />
 <img width="1917" height="1071" alt="Chat Application 01" src="https://github.com/user-attachments/assets/c6e73428-ce31-441f-b1e3-72cdf50e319c" />
 <img width="1918" height="1079" alt="Chat Application-02" src="https://github.com/user-attachments/assets/0c4bd36c-a869-46d3-b006-20c5618da0c7" />
+<img width="1915" height="1079" alt="Chat-Application-03" src="https://github.com/user-attachments/assets/5d8828c1-1530-4d06-87d5-363147637e54" />
+<img width="1917" height="1079" alt="Chat-Application-04" src="https://github.com/user-attachments/assets/65ab5ee9-c224-4e94-8bdc-f472a8bef717" />
+<img width="1919" height="1079" alt="Chat Application-05" src="https://github.com/user-attachments/assets/ec11be72-1c84-434d-85eb-d03e24bd74b7" />
+<img width="1919" height="1079" alt="Chat Application-06" src="https://github.com/user-attachments/assets/6e5f031d-0c39-4cc3-9831-c4236bb34f92" />
