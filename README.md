@@ -1,4 +1,4 @@
-# Real-Time-Chat-Application
+<img width="1912" height="1065" alt="Chat Application" src="https://github.com/user-attachments/assets/2e4fd8ef-a874-4ba2-a827-42dd3e26e075" /># Real-Time-Chat-Application
 This is a chat-application. This application allows private chatting between two logged-in users. The technologies, software, database and libraries used to create this app are:
   1. NodeJS
   2. React
@@ -68,3 +68,6 @@ Download the complete code of the project from Git Hub. Then, in the terminal, t
 Here, we have used web sockets to provide a real-time chat experience. Because of this, our app is stateful, and our server has to save the state of the user connected to it. This restricts us from scaling our app vertically, i.e., to improve the server's hardware. However, due to technical limitations, we can scale our server to a specific limit; after that, the performance starts degrading. To overcome this problem, we can provide a load balancer that checks the backend servers' health and distributes the load accordingly. To store the state of the users, we can use the Reddis array to save them so that we can use it as a buffer. By using the buffer, we can scale our app horizontally as well.
 
 ## Screenshots of the Chat-Application.
+<img width="1912" height="1065" alt="Chat Application" src="https://github.com/user-attachments/assets/aac48c7b-cb94-4a31-95bf-363d7675ce82" />
+<img width="1917" height="1071" alt="Chat Application 01" src="https://github.com/user-attachments/assets/c6e73428-ce31-441f-b1e3-72cdf50e319c" />
+<img width="1918" height="1079" alt="Chat Application-02" src="https://github.com/user-attachments/assets/0c4bd36c-a869-46d3-b006-20c5618da0c7" />
