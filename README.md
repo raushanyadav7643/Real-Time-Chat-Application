@@ -1,4 +1,4 @@
-<img width="1912" height="1065" alt="Chat Application" src="https://github.com/user-attachments/assets/2e4fd8ef-a874-4ba2-a827-42dd3e26e075" /># Real-Time-Chat-Application
+## Real-Time-Chat-Application
 This is a chat-application. This application allows private chatting between two logged-in users. The technologies, software, database and libraries used to create this app are:
   1. NodeJS
   2. React
